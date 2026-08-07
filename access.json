@@ -3,5 +3,11 @@
   "lockdown": false,
   "announcement": "",
   "allowed": [],
-  "banned": []
+  "banned": [
+    {
+      "uuid": "33087809-1d6d-4e82-9a26-00c2245c4cb3",
+      "name": "ieatskeppy",
+      "reason": "a"
+    }
+  ]
 }
