@@ -4,10 +4,6 @@
   "announcement": "",
   "allowed": [
     {
-      "uuid": "53ee1583-19df-457a-ab53-ab0450999629",
-      "name": "duobros2"
-    },
-    {
       "uuid": "33087809-1d6d-4e82-9a26-00c2245c4cb3",
       "name": "afkmin"
     }
